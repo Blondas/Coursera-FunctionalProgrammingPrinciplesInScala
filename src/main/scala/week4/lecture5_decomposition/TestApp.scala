@@ -1,4 +1,4 @@
-package week4.lecture4_decomposition
+package week4.lecture5_decomposition
 
 object TestApp extends App {
   val s1 = Sum(Number(2), Number(3))

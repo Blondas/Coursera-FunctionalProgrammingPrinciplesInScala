@@ -1,4 +1,4 @@
-package week4.lacture3_variance
+package week4.lacture4_variance
 
 trait List[+T] {
   def isEmpty: Boolean
