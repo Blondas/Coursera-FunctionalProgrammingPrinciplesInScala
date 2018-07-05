@@ -20,9 +20,9 @@ object MergeSort {
 }
 
 object Test extends App {
-  val l1 = List(1,3,5,5,8,12)
-  val l2 = List(2,2,4,5,9)
+  val l1 = List(3,5,12,-3,0)
+
   println {
-    MergeSort.merge(l1, l2)
+    MergeSort.msort(l1)
   }
 }
