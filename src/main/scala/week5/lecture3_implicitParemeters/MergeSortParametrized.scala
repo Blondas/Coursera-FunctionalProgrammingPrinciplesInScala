@@ -1,4 +1,4 @@
-package week5.lecture3_implicit_paremeters
+package week5.lecture3_implicitParemeters
 
 object MergeSort {
 

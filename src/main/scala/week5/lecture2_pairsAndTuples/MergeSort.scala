@@ -1,4 +1,4 @@
-package week5.lecture2_pairs_and_Tuples
+package week5.lecture2_pairsAndTuples
 
 object MergeSort {
 
